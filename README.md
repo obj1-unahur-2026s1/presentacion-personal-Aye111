@@ -7,7 +7,7 @@
 ### Datos Personales
 
 - Mi nombre es: Ayelen
-- vivo en: Moron
+- Vivo en: Moron
 
 ### Otra Información
 
