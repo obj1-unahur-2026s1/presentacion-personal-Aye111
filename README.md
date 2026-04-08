@@ -11,5 +11,5 @@
 
 ### Otra Información
 
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Me gusta escuchar musica
+- Estoy emocionada por aprender esta materia
